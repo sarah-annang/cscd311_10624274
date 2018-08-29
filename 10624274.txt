@@ -1,0 +1,183 @@
+<Doctype html>
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title> cscd 311</title>
+	</head>
+
+	<body style="background-color:lightgrey;">
+	
+	<h1>TECHNOLOGY</h1>
+	<h4>My <span style="color:red">Important</span> Heading</h4>
+	<p>
+		<style>
+		p {
+    background-color:;
+}
+
+}
+div {
+    width: 50px;
+    height: 30px;
+    border: 2px solid #73AD21;
+}
+div {
+    background-color: lightgrey;
+    width: 300px;
+    padding: 25px;
+    border: 15px solid navy;
+    margin: 15px;
+}
+
+
+body {
+    color:;
+}
+
+h1 {
+    color:;
+}
+</style>
+		<strong>What is Web Teschnology?</strong>
+		<div id="selection">
+		<em>Web technology</em> refers to the means by which computers communicate with each other using markup languages and multimedia packages.
+	</div>
+		</p>
+		<div>
+		<h2 >INTRODUCTION</h2>
+		<section>
+		<p2>In order to make <i>websites</i> look and function a certain way, <strong>web developers</strong> utilize different languages. The three core languages that make up the World Wide Web are HTML5, CSS, and JavaScript.
+		</p2>
+	    </section>
+	</div>
+	<br>
+	<br>
+	    <style>
+
+
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+a {
+    color: hotpink;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+
+	    </style>
+
+		<div id="footer">
+			<style>
+				p.solid {border-style: solid;}
+		
+
+			</style>
+		<h2>Markup Languages</h2>
+		<p>Markup languages are the languages in which the web is written. The most common markup language used is<small> HTML,</small>which uses tags to annotate text so that a computer can then manipulate the text. <i>Most markup languages are human readable, and use annotations that are distinguishable from the annotated text.</i> </p>
+	</div>
+	<br>
+	<br>
+	<object width="400" height="50" data="bookmark.swf"></object>
+	<div class="text">
+      
+        <h2>Hypertext</h2>
+		
+		<p>
+			<article>
+			<blockquote>Hypertext is defined as the arrangement of information inside a database that allows the user to receive information and to navigate from one document to another by clicking on highlighted words or pictures inside the primary document.</blockquote>
+			</p>
+			<a href="http://www.sarahannang.com/html/">Visit more interesting sites:</a>
+		</article>
+		<footer>cscd311 </footer>
+		</div>
+		<br>
+		<br>
+
+	    <pre>
+	    	<link rel="stylesheet" href="styles.css">
+	    	<h3> Let's Talk About languages</h3>
+<code>
+examples of some languages are:
+<ul>
+  <li>html</li>
+  <li>CSS</li>
+  <li>Java</li>
+  <li>Javascript</li>
+</ul>
+</code>
+</pre>
+
+<!-- my assignment -->
+<script>
+document.getElementById("demo").innerHTML = "About languages!";
+</script>
+
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
+<form>
+  User name:<br>
+  <input type="text" name="username"><br>
+  User password:<br>
+  <input type="password" name="psw">
+</form>
+<a href="http://www.sarahannang.com/html/">contact the following for more information:</a>
+
+<table style="width:50%">
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+   
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    
+  </tr>
+</table>
+<h3> Please select;</h3>
+<select name="cars">
+  <option value="volvo">boolstrap</option>
+  <option value="saab">PHP</option>
+  <option value="fiat">SQR</option>
+  <option value="audi">C++</option>
+</select>
+<br>
+<textarea name="message" rows="10" cols="30">
+please type your comment.
+</textarea>
+<br>
+<br>
+<button>Submit</button>
+<style>
+	.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+</style>
+
+	</body>
+	</html>
